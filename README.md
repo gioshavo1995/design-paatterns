@@ -1,1 +1,1 @@
-# design-paatterns
+# typescript-env
